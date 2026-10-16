@@ -1,0 +1,1 @@
+export const IOL_LOGO_URL = "/iol-logo-Blue.png";
